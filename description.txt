@@ -1,0 +1,1 @@
+A simple mod that shows all of your enabled mods and their versions on the title screen.

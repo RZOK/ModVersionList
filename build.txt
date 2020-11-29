@@ -1,0 +1,8 @@
+displayName = Title Screen Mod List
+author = RandomZachOfKindness
+version = 1.1
+homepage = https://github.com/RZOK/ModVersionList
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
